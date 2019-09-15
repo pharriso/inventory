@@ -1,0 +1,6 @@
+plugin: constructed
+strict: False
+keyed_groups:
+  - prefix: ""
+    separator: ""
+    key: domain_name
